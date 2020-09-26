@@ -11,7 +11,7 @@ class App
     "Content-Type" => "application/json", 
   }
     body = [
-      "hello world from back-end"
+      "testing message from back end"
     ]
     [status, headers, body]
   end
